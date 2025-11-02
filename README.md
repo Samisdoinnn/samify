@@ -1,4 +1,4 @@
-# Fashion E-Commerce Store
+# Samify - Fashion E-Commerce Store
 
 A modern, fully-functional e-commerce store built with Next.js 14, TypeScript, TailwindCSS, and Zustand for state management.
 
@@ -219,3 +219,5 @@ For issues or questions, please open an issue in the repository.
 ---
 
 Built with ❤️ using Next.js and TailwindCSS
+
+**Samify** - The Real-Time E-commerce Experience
